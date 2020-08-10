@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**SFonsecaCosta/SFonsecaCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data scientist working in single cell transcriptomics at University of Lausanne. I'm currently a PostDoc in [Bgee](https://bgee.org) team.
 
-Here are some ideas to get you started:
+I use mainly R for data analysis and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The pipelines workflows (mainly for Bgee) are writing using make. 
+
+## 📬 Get in touch
+
+- Twitter: [twitter.com/essepf](twitter.com/essepf)
+- email: sara.fonsecacosta[at]unil.ch
+
+## CV
+
+You can found my CV here.
