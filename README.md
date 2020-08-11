@@ -13,4 +13,4 @@ The pipelines workflows (mainly for Bgee) are writing using make.
 
 ## CV
 
-You can found my CV [here](/CV.pdf).
+You can found my CV [here](https://github.com/SFonsecaCosta/SFonsecaCosta/blob/master/CV.pdf).
