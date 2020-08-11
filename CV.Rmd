@@ -7,7 +7,7 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print()
+knit: pagedown::chrome_print("CV.Rmd")
 ---
 
 Aside
@@ -20,6 +20,7 @@ Contact Info {#contact}
 
 - <i class="fa fa-envelope"></i> sara.fonsecacosta@unil.ch
 - <i class="fa fa-github"></i> [github.com/SFonsecaCosta](https://github.com/SFonsecaCosta)
+- ORCID - https://orcid.org/0000-0001-7794-7997
 - <i class="fa fa-phone"></i> +4121 692 4221
 - For more information, please contact me via email.
 
