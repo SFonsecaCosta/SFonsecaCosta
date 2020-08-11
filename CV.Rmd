@@ -1,0 +1,393 @@
+---
+title: "Sara Fonseca Costa resume"
+author: Sara Fonseca Costa
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print()
+---
+
+Aside
+================================================================================
+
+![Sara](/Users/sfonseca1/Documents/GitHub_projects/SFonsecaCosta/img/me.png){width=70%}
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> sara.fonsecacosta@unil.ch
+- <i class="fa fa-github"></i> [github.com/SFonsecaCosta](https://github.com/SFonsecaCosta)
+- <i class="fa fa-phone"></i> +4121 692 4221
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+- Experienced in molecular biology, biochemistry, genetics and functional genomics.
+
+- Experienced in statistical analysis.
+
+- Full experience with next generation sequencing data analysis.
+
+- Highly skilled in R, Bash, LaTeX
+
+- Knowledge of: Python, Perl, C++
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Sara Fonseca Costa {#title}
+--------------------------------------------------------------------------------
+
+### Postdoctoral Researcher
+
+I am a data scientist/bioinformatician at the University of Lausanne.
+
+My research interests include aging, circadian clocks, genomics and transcriptomics. I'm working at the moment with single-cell transcriptomics data, in order to integrate this data type in the Bgee database. 
+I use mainly R for data analysis and visualization.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Fribourg
+
+PhD Biochemistry
+
+Fribourg, Switzerland
+
+2013 - 2017
+
+Thesis: Model based inference of photoperiod and age related changes in circadian oscillators.
+
+Advisor & Co-advisors: Prof. Dr. Urs Albrecht, Dr. Jürgen Ripperger and Prof. Dr. Daniel Wegmann
+
+### University of Geneva
+
+Master thesis
+
+Geneva, Switzerland
+
+Jan 2012 - Out 2012
+
+Thesis: Study of an automatization model to analyse genetic diversity in human populations.
+
+Advisors: Dr. José Nunes (UNIGE) and Prof. Dr. Miguel Rocha (UM)
+
+### University of Minho
+
+M.S. in Bioinformatics
+
+Braga, Portugal
+
+2010 - 2012
+
+### Polytechnic Institute of Bragança
+
+B.S. in Biotechnology Engineering
+
+Bragança, Portugal
+
+2006 - 2010
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Postdoctoral Researcher
+
+University of Lausanne
+
+Lausanne, Switzerland
+
+Jul 2018 - current
+
+- Data analysis and integration of single cell RNA-Seq data in Bgee database
+- Working in the Bgee pipeline
+
+### Postdoctoral Researcher
+
+Walter and Elisa Hall Institute / SIB
+
+Lausanne, Switzerland
+
+Sep 2017 - Dec 2017
+
+Advisor & Co-advisor: Prof. Dr. Terry Speed (WEHI) and Prof. Dr. Mauro Delorenzi (SIB)
+
+- Data analysis of circadian data
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Student researcher
+
+University of Porto - Department of Molecular Pahology and Immunology,
+Hospital Santo Antonio
+
+Porto, Portugal
+
+2009 - 2011
+
+::: concise
+Molecular Biology and Bioinformatic (HLA OSAS)
+:::
+
+Advisor: Prof. Dr. Berta Martins
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Molecular evolution (Bachelor)
+
+Teaching assistant
+
+Lausanne, Switzerland
+
+2019
+
+
+### Molecular genetics methods (Master)
+
+Teaching assistant
+
+Lausanne, Switzerland
+
+2018 - 2019
+
+
+### Data analysis (Bachelor)
+
+Teaching assistant
+
+Lausanne, Switzerland
+
+2018 - 2019
+
+
+### TP’s Biochemistry
+
+Teaching assistant
+
+Fribourg, Switzerland
+
+2013 - 2017
+
+### Bioinformatics pratical Classes
+
+Teaching assistant
+
+Fribourg, Switzerland
+
+2014 - 2015
+
+### Genotyping by Southern Blot Hybridization
+
+Teaching assistant 
+
+Fribourg, Switzerland
+
+2013 - 2015
+
+Organiser {data-icon=calendar}
+--------------------------------------------------------------------------------
+
+### Gene expression made useful easily: tools and database of Bgee - Practical (https://github.com/SFonsecaCosta/Bgee)
+
+Organizing team
+
+UNIL, Lausanne, Switzerland
+
+2020
+
+
+
+### Bioinformatics Open Days 2012 (http://hdl.handle.net/1822/33574)
+
+Organizing Committee
+
+UM, Braga, Portugal
+
+2012
+
+
+Training and courses {data-icon=book}
+--------------------------------------------------------------------------------
+
+
+
+Peer Review Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Single-cell transcriptomics allows novel insights into aging and circadian processes
+
+Briefings in Functional Genomics, elaa014
+
+N/A
+
+2020
+
+Sara S Fonseca Costa, Marc Robinson-Rechavi and Jürgen A Ripperger
+
+
+
+### Normalisation against Circadian and Age-Related Disturbances Enables Robust Detection of Gene Expression Changes in Liver of Aged Mice
+
+PloS one 12 (1), e0169615
+
+N/A
+
+2017
+
+Sara S Fonseca Costa, Daniel Wegmann, Jürgen A Ripperger
+
+
+
+### Internal normalization of nascent RNA sequencing experiments to identify age-related changes of the mouse liver transcriptome
+
+Genomics and Computational Biology 3 (2), e34-e34
+
+N/A
+
+2017
+
+Sara S Fonseca Costa and Jürgen A. Ripperger
+
+
+### REV-ERBα influences the stability and nuclear localization of the glucocorticoid receptor
+
+Journal of cell science 129 (21), 4143-4154
+
+N/A
+
+2016
+
+Takashi Okabe, Rohit Chavan, Sara S Fonseca Costa, Andrea Brenna, Jürgen A Ripperger, Urs Albrecht
+
+
+### Liver-derived ketone bodies are necessary for food anticipation
+
+Nature communications 7 (1), 1-10
+
+N/A
+
+2016
+
+Rohit Chavan, Céline Feillet, Sara S Fonseca Costa, James E Delorme, Takashi Okabe, Jürgen A Ripperger, Urs Albrecht
+
+
+
+### Impact of the circadian clock on the aging process
+
+Frontiers in neurology 6, 43
+
+N/A
+
+2015
+
+Sara S Fonseca Costa and Jürgen A. Ripperger
+
+
+
+Book chapiters {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Chromatin Immunoprecipitation (ChIP) from Mouse Liver Nuclei 
+
+Springer US (DOI: 10.1007/978-1-0716-0381-9)
+
+N/A
+
+2020
+
+Sara S. Fonseca Costa and Jürgen A. Ripperger
+
+
+Preprints {data-icon=file}
+--------------------------------------------------------------------------------
+
+### The Bgee suite: integrated curated expression atlas and comparative transcriptomics in animals
+
+bioRxiv (doi: https://doi.org/10.1101/2020.05.28.119560 )
+
+N/A
+
+2020
+
+Frederic B Bastian, Julien Roux, Anne Niknejad, Aurelie Comte, Sara S Fonseca Costa, Tarcisio Mendes De Farias, Sebastien Moretti, Gilles Parmentier, Valentine Rech De Laval, Marta Rosikiewicz, Julien Wollbrett, Amina Echchiki, Walid Gharib, Mar Gonzales-Porta, Yohan Jarosz, Balazs Laurenczy, Philippe Moret, Emilie Person, Patrick Roelli, Komal Sanjeev, Mathieu Seppey, Marc Robinson-Rechavi
+
+
+Conference presentations {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Expression calls from RNA-seq using BgeeCall R package
+
+Talk + poster presentation, Bioconductor conference - eurobioc2019
+
+UCLouvain, Brussels, Belgium
+
+2019
+
+Sara Fonseca Costa
+
+
+### Internal normalization of nascent RNA sequencing experiments to identify age-related changes of the mouse liver transcriptome
+
+Talk presentation, 2nd Challenges in Computational Biology: Gene Expression Data Analysis
+
+Mainz, Germany
+
+2016
+
+Sara S Fonseca Costa
+
+
+Language {data-icon=language}
+--------------------------------------------------------------------------------
+
+### Portuguese
+
+Native
+
+N/A
+
+N/A
+
+### English
+
+Fluente
+
+N/A
+
+N/A
+
+### French
+
+Basic
+
+N/A
+
+N/A
+
+### Spanish
+
+Basic
+
+N/A
+
+N/A
+
+

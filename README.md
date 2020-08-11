@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a data scientist/Bioinformatician working in single cell transcriptomics data at University of Lausanne. I'm currently a PostDoc in [Bgee](https://bgee.org) team.
+I am a data scientist/bioinformatician working in single cell transcriptomics data at University of Lausanne. I'm currently a PostDoc in [Bgee](https://bgee.org) team.
 
 I use mainly R for data analysis and visualization.
 
@@ -13,4 +13,4 @@ The pipelines workflows (mainly for Bgee) are writing using make.
 
 ## CV
 
-You can found my CV here.
+You can found my CV [here](/CV.pdf).
