@@ -7,8 +7,9 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
-knit: pagedown::chrome_print("CV.Rmd")
+knit: pagedown::chrome_print
 ---
+
 
 Aside
 ================================================================================
@@ -115,7 +116,7 @@ Lausanne, Switzerland
 Jul 2018 - current
 
 - Data analysis and integration of single cell RNA-Seq data in Bgee database
-- Working in the Bgee pipeline
+- Maintenance and update of the Bgee pipeline (together with other Bgee members).
 
 ### Postdoctoral Researcher
 
@@ -127,7 +128,7 @@ Sep 2017 - Dec 2017
 
 Advisor & Co-advisor: Prof. Dr. Terry Speed (WEHI) and Prof. Dr. Mauro Delorenzi (SIB)
 
-- Data analysis of circadian data
+- Improvement of data analysis of circadian and aging data using new statistical approaches.
 
 
 Professional Experience {data-icon=suitcase}
@@ -143,7 +144,7 @@ Porto, Portugal
 2009 - 2011
 
 ::: concise
-Molecular Biology and Bioinformatic (HLA OSAS)
+Molecular Biology and Bioinformatics (HLA OSAS)
 :::
 
 Advisor: Prof. Dr. Berta Martins
@@ -158,7 +159,7 @@ Teaching assistant
 
 Lausanne, Switzerland
 
-2019
+2019 - 2020
 
 
 ### Molecular genetics methods (Master)
@@ -167,7 +168,7 @@ Teaching assistant
 
 Lausanne, Switzerland
 
-2018 - 2019
+2018 - 2020
 
 
 ### Data analysis (Bachelor)
@@ -206,7 +207,7 @@ Fribourg, Switzerland
 Organiser {data-icon=calendar}
 --------------------------------------------------------------------------------
 
-### Gene expression made useful easily: tools and database of Bgee - Practical (https://github.com/SFonsecaCosta/Bgee)
+### Gene expression made useful easily: tools and database of Bgee
 
 Organizing team
 
@@ -215,8 +216,12 @@ UNIL, Lausanne, Switzerland
 2020
 
 
+::: aside
+Practical available: https://github.com/SFonsecaCosta/Bgee
+:::
 
-### Bioinformatics Open Days 2012 (http://hdl.handle.net/1822/33574)
+
+### Bioinformatics Open Days 2012 
 
 Organizing Committee
 
@@ -224,18 +229,27 @@ UM, Braga, Portugal
 
 2012
 
-
-Training and courses {data-icon=book}
---------------------------------------------------------------------------------
-
-
+::: aside
+Info available: http://hdl.handle.net/1822/33574
+:::
 
 Peer Review Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
+### The Bgee suite: integrated curated expression atlas and comparative transcriptomics in animals 
+
+Nucleic Acids Research, https://doi.org/10.1093/nar/gkaa793
+
+N/A
+
+2020
+
+Frederic B Bastian, Julien Roux, Anne Niknejad, Aurélie Comte, Sara S Fonseca Costa, Tarcisio Mendes de Farias, Sébastien Moretti, Gilles Parmentier, Valentine Rech de Laval, Marta Rosikiewicz, Julien Wollbrett, Amina Echchiki, Angélique Escoriza, Walid H Gharib, Mar Gonzales-Porta, Yohan Jarosz, Balazs Laurenczy, Philippe Moret, Emilie Person, Patrick Roelli, Komal Sanjeev, Mathieu Seppey, Marc Robinson-Rechavi
+
+
 ### Single-cell transcriptomics allows novel insights into aging and circadian processes
 
-Briefings in Functional Genomics, elaa014
+Briefings in Functional Genomics, https://doi.org/10.1093/bfgp/elaa014
 
 N/A
 
@@ -247,7 +261,8 @@ Sara S Fonseca Costa, Marc Robinson-Rechavi and Jürgen A Ripperger
 
 ### Normalisation against Circadian and Age-Related Disturbances Enables Robust Detection of Gene Expression Changes in Liver of Aged Mice
 
-PloS one 12 (1), e0169615
+PloS one 12 (1),  https://doi.org/10.1371/journal.pone.0169615
+
 
 N/A
 
@@ -259,7 +274,7 @@ Sara S Fonseca Costa, Daniel Wegmann, Jürgen A Ripperger
 
 ### Internal normalization of nascent RNA sequencing experiments to identify age-related changes of the mouse liver transcriptome
 
-Genomics and Computational Biology 3 (2), e34-e34
+Genomics and Computational Biology 3 (2), https://doi.org/10.18547/gcb.2017.vol3.iss2.e34 
 
 N/A
 
@@ -270,7 +285,7 @@ Sara S Fonseca Costa and Jürgen A. Ripperger
 
 ### REV-ERBα influences the stability and nuclear localization of the glucocorticoid receptor
 
-Journal of cell science 129 (21), 4143-4154
+Journal of cell science 129 (21), https://doi.org/10.1242/jcs.190959 
 
 N/A
 
@@ -281,7 +296,7 @@ Takashi Okabe, Rohit Chavan, Sara S Fonseca Costa, Andrea Brenna, Jürgen A Ripp
 
 ### Liver-derived ketone bodies are necessary for food anticipation
 
-Nature communications 7 (1), 1-10
+Nature communications 7 (1), 1-10, https://doi.org/10.1038/ncomms10580
 
 N/A
 
@@ -293,7 +308,7 @@ Rohit Chavan, Céline Feillet, Sara S Fonseca Costa, James E Delorme, Takashi Ok
 
 ### Impact of the circadian clock on the aging process
 
-Frontiers in neurology 6, 43
+Frontiers in neurology 6, 43,  https://doi.org/10.3389/fneur.2015.00043
 
 N/A
 
@@ -303,12 +318,12 @@ Sara S Fonseca Costa and Jürgen A. Ripperger
 
 
 
-Book chapiters {data-icon=file}
+Book chapiters {data-icon=book}
 --------------------------------------------------------------------------------
 
 ### Chromatin Immunoprecipitation (ChIP) from Mouse Liver Nuclei 
 
-Springer US (DOI: 10.1007/978-1-0716-0381-9)
+Springer US - DOI:10.1007/978-1-0716-0381-9
 
 N/A
 
@@ -317,21 +332,24 @@ N/A
 Sara S. Fonseca Costa and Jürgen A. Ripperger
 
 
-Preprints {data-icon=file}
+Open Source Contributions {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### The Bgee suite: integrated curated expression atlas and comparative transcriptomics in animals
+### BgeeCall R Package 
 
-bioRxiv (doi: https://doi.org/10.1101/2020.05.28.119560 )
+Contribution
 
 N/A
 
-2020
+2019
 
-Frederic B Bastian, Julien Roux, Anne Niknejad, Aurelie Comte, Sara S Fonseca Costa, Tarcisio Mendes De Farias, Sebastien Moretti, Gilles Parmentier, Valentine Rech De Laval, Marta Rosikiewicz, Julien Wollbrett, Amina Echchiki, Walid Gharib, Mar Gonzales-Porta, Yohan Jarosz, Balazs Laurenczy, Philippe Moret, Emilie Person, Patrick Roelli, Komal Sanjeev, Mathieu Seppey, Marc Robinson-Rechavi
+Julien Wollbrett[aut], Julien Roux[aut], Sara Fonseca Costa[ctb], Marc Robinson Rechavi[ctb], Frederic Bastian[aut]
 
+::: aside
+https://www.bioconductor.org/packages/release/workflows/html/BgeeCall.html
+:::
 
-Conference presentations {data-icon=file}
+Conference presentations {data-icon=bar-chart}
 --------------------------------------------------------------------------------
 
 ### Expression calls from RNA-seq using BgeeCall R package
