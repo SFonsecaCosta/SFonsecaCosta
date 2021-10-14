@@ -28,23 +28,21 @@ Contact Info {#contact}
 
 Skills {#skills}
 --------------------------------------------------------------------------------
+- Experienced in Bioinformatics, data analysis and statistics.
+
+- Full experience with next generation sequencing data analysis (RNA-Seq, Chip-Seq, single cell RNA-Seq).
+
 - Experienced in molecular biology, biochemistry, genetics and functional genomics.
-
-- Experienced in statistical analysis.
-
-- Full experience with next generation sequencing data analysis.
 
 - Highly skilled in R, Bash, LaTeX
 
-- Knowledge of: Python, Perl, C++
+- Highly skilled of Unix/Linux and HPC
+
+- Knowledge of Python, Perl, C++
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
-
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
-Last updated on `r Sys.Date()`.
 
 
 Main
@@ -57,7 +55,9 @@ Sara Fonseca Costa {#title}
 
 I am a data scientist/bioinformatician at the University of Lausanne.
 
-My research interests include aging, circadian clocks, genomics and transcriptomics. I'm working at the moment with single-cell transcriptomics data, in order to integrate this data type in the Bgee database. 
+My research interests include genomics, transcriptomics, stats and ageing. 
+My current work on Bgee (https://bgee.org/) involves the development of a new pipeline to analyze different single cell RNA-Seq protocols (full length and target based protocols) in order to integrate this data type with others already present in the database.
+
 I use mainly R for data analysis and visualization.
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -116,7 +116,8 @@ Lausanne, Switzerland
 Jul 2018 - current
 
 - Data analysis and integration of single cell RNA-Seq data in Bgee database
-- Maintenance and update of the Bgee pipeline (together with other Bgee members).
+- Maintenance and update of the Bgee pipeline (RNA-Seq, Affymetrix).
+- Contribution/development of R Packages.
 
 ### Postdoctoral Researcher
 
@@ -159,7 +160,7 @@ Teaching assistant
 
 Lausanne, Switzerland
 
-2019 - 2020
+2019 - 2021
 
 
 ### Molecular genetics methods (Master)
@@ -206,6 +207,20 @@ Fribourg, Switzerland
 
 Organiser {data-icon=calendar}
 --------------------------------------------------------------------------------
+
+### Gene expression made useful easily: tools and database of Bgee
+
+Organizing team
+
+UNIL, Lausanne, Switzerland
+
+2021
+
+
+::: aside
+Practical available: https://hub.docker.com/r/bgeedb/bgee_r
+:::
+
 
 ### Gene expression made useful easily: tools and database of Bgee
 
@@ -323,7 +338,7 @@ Book chapiters {data-icon=book}
 
 ### Chromatin Immunoprecipitation (ChIP) from Mouse Liver Nuclei 
 
-Springer US - DOI:10.1007/978-1-0716-0381-9
+Springer US - https://doi.org/10.1007/978-1-0716-0381-9_9
 
 N/A
 
@@ -337,16 +352,16 @@ Open Source Contributions {data-icon=laptop}
 
 ### BgeeCall R Package 
 
-Contribution
+N/A
 
 N/A
 
 2019
 
-Julien Wollbrett[aut], Julien Roux[aut], Sara Fonseca Costa[ctb], Marc Robinson Rechavi[ctb], Frederic Bastian[aut]
+Julien Wollbrett [aut, cre], Sara Fonseca Costa [aut], Julien Roux [aut], Marc Robinson Rechavi [ctb], Frederic Bastian [aut]
 
 ::: aside
-https://www.bioconductor.org/packages/release/workflows/html/BgeeCall.html
+https://bioconductor.org/packages/release/bioc/html/BgeeCall.html
 :::
 
 Conference presentations {data-icon=bar-chart}
@@ -395,7 +410,7 @@ N/A
 
 ### French
 
-Basic
+Medium
 
 N/A
 
